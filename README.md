@@ -1,7 +1,8 @@
 ## Machine Learning: Clustering and Retrieval
 
 ### Description
-Built text and image clustering models using unsupervised machine learning algorithms such as nearest neighbors, k means, LDA and used techniques such as kd trees, locality sensitive hashing, expectation maximization, and gibbs sampling to make models scalable.
+• Built wikipedia article and image retrieval models by using clustering algorithms such as k nearest neighbors, k means, latent dirichlet allocation, and hierarchical clustering.
+• Used expectation maximization, locality sensitive hashing, and gibbs sampling to built gaussian mixture and mixed membership models for improved assignment of data-points and clustering.
 
 ### Code
 1. [Nearest Neighbors Search](https://github.com/agrawal-priyank/machine-learning-clustering-retrieval/blob/master/nearest-neighbor-search/nearest-neighbors-features-and-metrics.ipynb)
