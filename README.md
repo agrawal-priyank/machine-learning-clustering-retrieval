@@ -8,7 +8,7 @@ Built text and image clustering models using unsupervised machine learning algor
 2. [1 Nearest Neighbor with Locality Sensitive Hashing](https://github.com/agrawal-priyank/machine-learning-clustering-retrieval/blob/master/nearest-neighbor-search/1_nearest-neighbors-locality-sensitive-hashing-implementation.ipynb)
 3. [K Means](https://github.com/agrawal-priyank/machine-learning-clustering-retrieval/blob/master/k-means/kmeans-with-text-data.ipynb)
 4. [Expectation Maximization](https://github.com/agrawal-priyank/machine-learning-clustering-retrieval/blob/master/expectation-maximization/expectation-maximization-with-text-data.ipynb)
-5. [Expectation Maximization - Gaussian Mixtures Model](https://github.com/agrawal-priyank/machine-learning-clustering-retrieval/blob/master/expectation-maximization/expectation-maximization-for-gaussian-mixtures.ipynb)
+5. [Expectation Maximization - Image Data (Gaussian Mixtures)](https://github.com/agrawal-priyank/machine-learning-clustering-retrieval/blob/master/expectation-maximization/expectation-maximization-for-gaussian-mixtures.ipynb)
 6. [Latent Dirichlet Allocation - Mixed Membership Model](https://github.com/agrawal-priyank/machine-learning-clustering-retrieval/blob/master/latent-dirichlet-allocation/latent-dirichlet-allocation.ipynb)
 7. [Hierarchical Clustering](https://github.com/agrawal-priyank/machine-learning-clustering-retrieval/blob/master/hierarchical-clustering/hierarchical_clustering.ipynb)
 
