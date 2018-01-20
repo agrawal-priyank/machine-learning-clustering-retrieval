@@ -1,9 +1,8 @@
-## Machine Learning: Clustering and Retrieval
+## Machine Learning Clustering and Retrieval: Text and Image Clustering Models
 
 ### Description
-* Built wikipedia article and image retrieval models by using clustering algorithms such as K Nearest Neighbors, K Means, Latent Dirichlet Allocation, and Hierarchical Clustering.
-* Used Expectation Maximization, Locality Sensitive Hashing, and Gibbs Sampling to built gaussian mixture and mixed membership models for improved assignment of data-points and clustering.
-
+* Built wikipedia article and image retrieval models by using clustering algorithms such as k nearest neighbors, k means, latent dirichlet allocation, and hierarchical clustering.
+* Used expectation maximization, locality sensitive hashing, and gibbs sampling to built gaussian mixture and mixed membership models for an improved assignment of data-points and clustering.
 
 ### Code
 1. [Nearest Neighbors Search](https://github.com/agrawal-priyank/machine-learning-clustering-retrieval/blob/master/nearest-neighbor-search/nearest-neighbors-features-and-metrics.ipynb)
@@ -19,8 +18,11 @@
 ### Programming Language
 Python
 
-### ML Packages
-Graphlab Create [Installation guide](https://turi.com/learn/coursera/), Numpy, Matplotlib
+### Packages
+Anaconda, Graphlab Create [Installation guide](https://turi.com/learn/coursera/)
+
+### Tools/IDE 
+Jupyter notebook (IPython)
 
 ### How to use it
 1. Fork this repository to have your own copy
@@ -28,4 +30,4 @@ Graphlab Create [Installation guide](https://turi.com/learn/coursera/), Numpy, M
 3. Install necessary packages
 
 ### Note
-This repository does not contain optimal machine learning models! It only assesses various models that can be made using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
+This repository does not contain optimal machine learning models! It only assesses various models that can be built using different machine learning algorithms (either implemented or used directly from Graphlab Create package) to perform different tasks.
